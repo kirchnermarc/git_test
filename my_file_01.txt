@@ -1,0 +1,3 @@
+line 01 my test my test my test
+line 02 other other other
+line 03 class class class
